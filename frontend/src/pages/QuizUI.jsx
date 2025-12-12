@@ -108,7 +108,7 @@ export default function QuizUI() {
           {currentIndex === 0 && (
             <>
               <img
-                src="/src/assets/Group (1).png"
+                src="/Group (1).png"
                 alt="icon"
                 style={{
                   position: 'absolute',
@@ -124,7 +124,7 @@ export default function QuizUI() {
                 }}
               />
               <img
-                src="/src/assets/Anim.gif"
+                src="/Anim.gif"
                 alt="card animation"
                 style={{
                   position: 'absolute',
